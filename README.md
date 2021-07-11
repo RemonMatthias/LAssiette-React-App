@@ -35,7 +35,7 @@ A React Single-Page App for a restaurant    <br />
 
 ## About The Project
 
-![product-screenshot](https://raw.github.com/RemonMatthias/LAssiette-React-App/main/src/images/screenshot.png)
+![product-screenshot](https://raw.github.com/RemonMatthias/LAssiette-React-App/blob/main/src/images/screenshot.png)
 
 L'Assiette is a single-page app created using reactjs . it has a simple yet elegant and modern design . It was built with a keen attention to details, incorporating modern technologies and abiding by the best coding practices, some of the features include smooth scrolling and simple animations.
 
