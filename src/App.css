@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Atma&family=Chivo:wght@300;400&family=Nunito:wght@300&family=Overpass:wght@100;200;300&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+@media screen and (min-height: 850px) {
+  * {
+    font-size: 25px;
+  }
+}
+
+body {
+  background: repeating-linear-gradient(to bottom, #0a0a0a, #1c1c1d 10px);
+}
+
+/* font-family: 'Atma', cursive;
+font-family: 'Chivo', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Overpass', sans-serif; */
