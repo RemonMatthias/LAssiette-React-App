@@ -12,7 +12,7 @@ A React Single-Page App for a restaurant    <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://l-assiette-react-app.web.app/">View Demo</a>
 
   </p>
 </p>
@@ -27,7 +27,7 @@ A React Single-Page App for a restaurant    <br />
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#contact">Author</a></li>
+    <li><a href="#author">Author</a></li>
   </ol>
 </details>
 
@@ -54,4 +54,4 @@ L'Assiette has been build using modern technologies such as :
 
 - [Profile](https://github.com/RemonMatthias)
 - [Email](remonmatthias.business@gmail.com)
-- [Website](https://kingtechnologies.in "Welcome")
+- [Website]("Welcome")
